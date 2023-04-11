@@ -1,0 +1,6 @@
+{
+  "port": 5000,
+  "jwtSecret": "aleks front-end developer",
+  "mongoUri": "mongodb+srv://aleks:aleks1234@cluster0.mddngfe.mongodb.net/?retryWrites=true&w=majority",
+  "baseUrl": "http://localhost:5000"
+}
